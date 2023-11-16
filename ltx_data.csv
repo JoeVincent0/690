@@ -1,0 +1,71 @@
+city,link,volume,survival_waiting,transplant_speed,survival_1year
+"New York, NY",https://www.srtr.org/transplant-centers/interactive-report?center=NYUC&type=TX1&organ=lu,81,3,5,5
+"Madison, WI",https://www.srtr.org/transplant-centers/interactive-report?center=WIUW&type=TX1&organ=lu,42,3,4,5
+"Grand Rapids, MI",https://www.srtr.org/transplant-centers/interactive-report?center=MISH&type=TX1&organ=lu,41,3,4,5
+"San Francisco, CA",https://www.srtr.org/transplant-centers/interactive-report?center=CASF&type=TX1&organ=lu,77,4,3,5
+"Tampa, FL",https://www.srtr.org/transplant-centers/interactive-report?center=FLTG&type=TX1&organ=lu,52,3,3,5
+"Rochester, MN",https://www.srtr.org/transplant-centers/interactive-report?center=MNMC&type=TX1&organ=lu,51,2,3,5
+"Philadelphia, PA",https://www.srtr.org/transplant-centers/interactive-report?center=PATU&type=TX1&organ=lu,124,1,3,5
+"Gainesville, FL",https://www.srtr.org/transplant-centers/interactive-report?center=FLUF&type=TX1&organ=lu,48,5,2,5
+"Philadelphia, PA",https://www.srtr.org/transplant-centers/interactive-report?center=PAUP&type=TX1&organ=lu,54,4,2,5
+"Nashville, TN",https://www.srtr.org/transplant-centers/interactive-report?center=TNVU&type=TX1&organ=lu,67,4,5,4
+"La Jolla, CA",https://www.srtr.org/transplant-centers/interactive-report?center=CASD&type=TX1&organ=lu,37,5,4,4
+"Omaha, NE",https://www.srtr.org/transplant-centers/interactive-report?center=NEUN&type=TX1&organ=lu,9,4,4,4
+"Los Angeles, CA",https://www.srtr.org/transplant-centers/interactive-report?center=CAUC&type=TX1&organ=lu,72,2,4,4
+"Aurora, CO",https://www.srtr.org/transplant-centers/interactive-report?center=COUC&type=TX1&organ=lu,40,2,4,4
+"Salt Lake City, UT",https://www.srtr.org/transplant-centers/interactive-report?center=UTMC&type=TX1&organ=lu,36,2,4,4
+"Manhasset, NY",https://www.srtr.org/transplant-centers/interactive-report?center=NYNS&type=TX1&organ=lu,6,4,3,4
+"Charlottesville, VA",https://www.srtr.org/transplant-centers/interactive-report?center=VAUV&type=TX1&organ=lu,29,3,3,4
+"Iowa City, IA",https://www.srtr.org/transplant-centers/interactive-report?center=IAIV&type=TX1&organ=lu,24,3,3,4
+"St. Louis, MO",https://www.srtr.org/transplant-centers/interactive-report?center=MOBH&type=TX1&organ=lu,60,2,3,4
+"Dallas, TX",https://www.srtr.org/transplant-centers/interactive-report?center=TXSP&type=TX1&organ=lu,58,1,3,4
+"Los Angeles, CA",https://www.srtr.org/transplant-centers/interactive-report?center=CAUH&type=TX1&organ=lu,31,5,2,4
+"Stanford, CA",https://www.srtr.org/transplant-centers/interactive-report?center=CASU&type=TX1&organ=lu,55,4,2,4
+"Milwaukee, WI",https://www.srtr.org/transplant-centers/interactive-report?center=WISE&type=TX1&organ=lu,21,4,2,4
+"Houston, TX",https://www.srtr.org/transplant-centers/interactive-report?center=TXMH&type=TX1&organ=lu,68,3,2,4
+"Cincinnati, OH",https://www.srtr.org/transplant-centers/interactive-report?center=OHCM&type=TX1&organ=lu,0,3,2,4
+"Jacksonville, FL",https://www.srtr.org/transplant-centers/interactive-report?center=FLSL&type=TX1&organ=lu,37,2,2,4
+"Phoenix, AZ",https://www.srtr.org/transplant-centers/interactive-report?center=AZSJ&type=TX1&organ=lu,78,3,5,3
+"Chicago, IL",https://www.srtr.org/transplant-centers/interactive-report?center=ILNM&type=TX1&organ=lu,80,4,4,3
+"Houston, TX",https://www.srtr.org/transplant-centers/interactive-report?center=TXHI&type=TX1&organ=lu,63,3,4,3
+"Charleston, SC",https://www.srtr.org/transplant-centers/interactive-report?center=SCMU&type=TX1&organ=lu,9,3,4,3
+"Los Angeles, CA",https://www.srtr.org/transplant-centers/interactive-report?center=CACS&type=TX1&organ=lu,74,2,4,3
+"Falls Church, VA",https://www.srtr.org/transplant-centers/interactive-report?center=VAFH&type=TX1&organ=lu,39,5,3,3
+"San Antonio, TX",https://www.srtr.org/transplant-centers/interactive-report?center=TXBC&type=TX1&organ=lu,36,5,3,3
+"Houston, TX",https://www.srtr.org/transplant-centers/interactive-report?center=TXTC&type=TX1&organ=lu,0,3,3,3
+"Cleveland, OH",https://www.srtr.org/transplant-centers/interactive-report?center=OHCC&type=TX1&organ=lu,101,2,3,3
+"Baltimore, MD",https://www.srtr.org/transplant-centers/interactive-report?center=MDJH&type=TX1&organ=lu,20,5,2,3
+"New York, NY",https://www.srtr.org/transplant-centers/interactive-report?center=NYCP&type=TX1&organ=lu,101,4,2,3
+"Seattle, WA",https://www.srtr.org/transplant-centers/interactive-report?center=WAUW&type=TX1&organ=lu,48,4,2,3
+"New Orleans, LA",https://www.srtr.org/transplant-centers/interactive-report?center=LAOF&type=TX1&organ=lu,2,4,2,3
+"Atlanta, GA",https://www.srtr.org/transplant-centers/interactive-report?center=GAEM&type=TX1&organ=lu,20,3,2,3
+"New York, NY",https://www.srtr.org/transplant-centers/interactive-report?center=NYMS&type=TX1&organ=lu,15,3,2,3
+"Newark, NJ",https://www.srtr.org/transplant-centers/interactive-report?center=NJBI&type=TX1&organ=lu,12,3,2,3
+"Detroit, MI",https://www.srtr.org/transplant-centers/interactive-report?center=MIHF&type=TX1&organ=lu,33,4,1,3
+"Pittsburgh, PA",https://www.srtr.org/transplant-centers/interactive-report?center=PAPT&type=TX1&organ=lu,52,3,5,2
+"Durham, NC",https://www.srtr.org/transplant-centers/interactive-report?center=NCDU&type=TX1&organ=lu,107,2,5,2
+"Columbus, OH",https://www.srtr.org/transplant-centers/interactive-report?center=OHOU&type=TX1&organ=lu,57,3,4,2
+"Baltimore, MD",https://www.srtr.org/transplant-centers/interactive-report?center=MDUM&type=TX1&organ=lu,25,3,4,2
+"Dallas, TX",https://www.srtr.org/transplant-centers/interactive-report?center=TXTX&type=TX1&organ=lu,31,3,3,2
+"Louisville, KY",https://www.srtr.org/transplant-centers/interactive-report?center=KYJH&type=TX1&organ=lu,12,3,3,2
+"Birmingham, AL",https://www.srtr.org/transplant-centers/interactive-report?center=ALUA&type=TX1&organ=lu,25,2,3,2
+"Ann Arbor, MI",https://www.srtr.org/transplant-centers/interactive-report?center=MIUM&type=TX1&organ=lu,23,2,3,2
+"Orlando, FL",https://www.srtr.org/transplant-centers/interactive-report?center=FLFH&type=TX1&organ=lu,13,1,3,2
+"Maywood, IL",https://www.srtr.org/transplant-centers/interactive-report?center=ILLU&type=TX1&organ=lu,48,5,2,2
+"Lexington, KY",https://www.srtr.org/transplant-centers/interactive-report?center=KYUK&type=TX1&organ=lu,31,4,2,2
+"Bronx, NY",https://www.srtr.org/transplant-centers/interactive-report?center=NYMA&type=TX1&organ=lu,22,4,2,2
+"Cleveland, OH",https://www.srtr.org/transplant-centers/interactive-report?center=OHUH&type=TX1&organ=lu,16,4,2,2
+"Minneapolis, MN",https://www.srtr.org/transplant-centers/interactive-report?center=MNUM&type=TX1&organ=lu,41,3,2,2
+"Tucson, AZ",https://www.srtr.org/transplant-centers/interactive-report?center=AZUA&type=TX1&organ=lu,20,2,2,2
+"Oklahoma City, OK",https://www.srtr.org/transplant-centers/interactive-report?center=OKBC&type=TX1&organ=lu,11,5,1,2
+"Boston, MA",https://www.srtr.org/transplant-centers/interactive-report?center=MAMG&type=TX1&organ=lu,21,3,1,2
+"Indianapolis, IN",https://www.srtr.org/transplant-centers/interactive-report?center=INIM&type=TX1&organ=lu,30,2,5,1
+"Chapel Hill, NC",https://www.srtr.org/transplant-centers/interactive-report?center=NCMH&type=TX1&organ=lu,8,2,4,1
+"Miami, FL",https://www.srtr.org/transplant-centers/interactive-report?center=FLJM&type=TX1&organ=lu,75,2,3,1
+"Houston, TX",https://www.srtr.org/transplant-centers/interactive-report?center=TXHH&type=TX1&organ=lu,10,5,2,1
+"Chicago, IL",https://www.srtr.org/transplant-centers/interactive-report?center=ILUC&type=TX1&organ=lu,9,3,2,1
+"Boston, MA",https://www.srtr.org/transplant-centers/interactive-report?center=MAPB&type=TX1&organ=lu,35,2,1,1
+"Boston, MA",https://www.srtr.org/transplant-centers/interactive-report?center=MACH&type=TX1&organ=lu,0,3,3,
+"Galveston, TX",https://www.srtr.org/transplant-centers/interactive-report?center=TXJS&type=TX1&organ=lu,0,3,2,
+"Columbus, OH",https://www.srtr.org/transplant-centers/interactive-report?center=OHCH&type=TX1&organ=lu,0,,,
+"St. Louis, MO",https://www.srtr.org/transplant-centers/interactive-report?center=MOCH&type=TX1&organ=lu,0,,,
